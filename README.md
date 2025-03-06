@@ -10,5 +10,3 @@ Este repositório contém dois projetos de aprendizado de máquina:
 - Pandas & NumPy  
 - Matplotlib & Seaborn  
 - API CoinGecko
-
- ![Gráfico de Preços](data/grafico_precos.png)
